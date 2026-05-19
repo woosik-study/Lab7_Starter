@@ -1,4 +1,5 @@
 ## Check Your Understanding
+**Name:** Woosik Kim
 
 ### Question 1
 **Answer:** Within a Github action that runs whenever code is pushed, so tests run automatically on every push and catch bugs without relying on developers to run them manually.
